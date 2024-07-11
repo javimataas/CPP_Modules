@@ -6,7 +6,7 @@
 #    By: jmatas-p <jmatas-p@student.42.fr>          +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2024/02/17 08:34:01 by jmatas-p          #+#    #+#              #
-#    Updated: 2024/04/30 18:12:11 by jmatas-p         ###   ########.fr        #
+#    Updated: 2024/07/11 17:16:36 by jmatas-p         ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
@@ -15,7 +15,7 @@ CFLAGS = -Wall -Wextra -Werror -std=c++98
 SRC_DIR = ./sources
 INC_DIR = ./includes
 OBJ_DIR = ./obj
-NAME = 07
+NAME = CPP07
 
 GREEN		=		\033[0;32m
 RED			=		\033[0;31m

@@ -6,7 +6,7 @@
 /*   By: jmatas-p <jmatas-p@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/02/17 08:14:01 by jmatas-p          #+#    #+#             */
-/*   Updated: 2024/04/30 18:09:10 by jmatas-p         ###   ########.fr       */
+/*   Updated: 2024/07/11 17:14:56 by jmatas-p         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -16,6 +16,7 @@
 
 int	main(void)
 {   
+    /*
     std::cout << "Test for int:" << std::endl;
     ::test(4, 2);
     std::cout << "Test for float:" << std::endl;
@@ -27,17 +28,10 @@ int	main(void)
     std::cout << "Test for string:" << std::endl;
     ::test("aaa", "bbb");
     std::cout << "Test for bool:" << std::endl;
-    ::test(true, false);
+    ::test(true, false); 
+    */
 
     std::cout << std::endl << "Subject test" << std::endl;
-    
-    /*  should output:
-        a = 3, b = 2
-        min(a, b) = 2
-        max(a, b) = 3
-        c = chaine2, d = chaine1
-        min(c, d) = chaine1
-        max(c, d) = chaine2*/
     
 	int a = 2;
 	int b = 3;
